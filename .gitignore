@@ -1,0 +1,11 @@
+# Ignore specific folders
+.bebras_proctoring/
+.mpm_proctoring/
+.new/
+.data/
+.vr_proctoring/
+
+# Ignore specific files
+engagement.bebras_proctoring.json
+engagement.vr_proctoring.json
+engagement.mpm_proctoring.json
